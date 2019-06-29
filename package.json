@@ -1,0 +1,20 @@
+{
+  "name": "qfcalculator",
+  "version": "1.0.0",
+  "description": "This calculator is used to find the x-intercepts of the equation of a parabola using the quadratic formula",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[D\u001b[D\u001bserver.js",
+  "scripts": {
+     "start": "npx serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabsterrexx/QFcalculator.git"
+  },
+  "author": "Sabsterexx\u001b[D\u001b[D\u001b[Drexx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sabsterrexx/QFcalculator/issues"
+  },
+  "homepage": "https://github.com/Sabsterrexx/QFcalculator#readme"
+}
