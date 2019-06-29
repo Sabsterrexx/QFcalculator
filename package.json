@@ -2,7 +2,7 @@
   "name": "qfcalculator",
   "version": "1.0.0",
   "description": "This calculator is used to find the x-intercepts of the equation of a parabola using the quadratic formula",
-  "main": "",
+  "main": "index.html",
   "scripts": {
      "start": "npx serve",
     "test": "echo \"Error: no test specified\" && exit 1"
